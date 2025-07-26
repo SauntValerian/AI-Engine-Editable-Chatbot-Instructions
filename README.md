@@ -1,7 +1,7 @@
 # AI Engine Editable Chatbot Instructions
 A front-end interface to display and edit chatbot instructions.
 
-><em>This is AI-coded by Claude AI, and was created for a specific use case to allow refinement of chatbot instructions by selected users, preferably and in a development and evaluation environment.</em>
+><em>This is AI-coded by Claude AI, and was created for a specific use case to allow refinement of chatbot instructions by selected users in a development and evaluation environment.</em>
 >
 ><em>Not recommended for production sites.</em>
 
