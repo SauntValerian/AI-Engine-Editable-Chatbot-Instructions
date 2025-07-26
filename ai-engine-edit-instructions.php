@@ -2,7 +2,7 @@
 /**
  * Plugin Name: AI Engine Chatbot Instructions Display
  * Plugin URI: https://yourwebsite.com/plugins/ai-engine-chatbot-instructions
- * Description: Provides a shortcode to display and edit AI Engine chatbot instructions on the frontend. Use [chatbot_instructions name="chatbot_name"] to display instructions for a specific chatbot.
+ * Description: Provides a shortcode to display and edit AI Engine chatbot instructions on the frontend.
  * Version: 1.0.0
  * Author: SauntValerian
  * Author URI: https://prometheusfire.me
