@@ -5,7 +5,7 @@ This plugin simply creates a shortcode where you can display the instructions fo
 
 ### Usage
 
-For simple display of the instuctions use the shortcode this way, adding the chatbot ID:
+For simple display of the instructions use the shortcode this way, adding the chatbot ID:
 
 <code>[chatbot_instructions name="chatbot-id"]</code>
 
