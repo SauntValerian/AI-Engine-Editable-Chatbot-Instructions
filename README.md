@@ -1,7 +1,9 @@
 # AI Engine Editable Chatbot Instructions
 A front-end interface to display and edit chatbot instructions.
 
-<em>This is AI-coded by Claude AI, and was created for a specific use case to allow refinement of chatbot instructions by selected users. Not recommended for production sites.</em>
+<em>This is AI-coded by Claude AI, and was created for a specific use case to allow refinement of chatbot instructions by selected users. 
+
+Not recommended for production sites.</em>
 
 This plugin simply creates a shortcode where you can display the instructions for the identified chatbot. Has options to edit the instructions and save them back to the database. By default, only Admins can edit the instructions. However, you can set an option for the minumum role needed to enable editing for other users.
 
