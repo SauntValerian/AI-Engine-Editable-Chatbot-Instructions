@@ -13,7 +13,7 @@ Enable editing this way, by default it only allows admins to edit:
 
 <code>[chatbot_instructions name="chatbot-id" editable="1"]</code>
 
-Allow editing by lower roles. Set the minumum role and all above it can edit. Does not support custom user roles, only organic WP user roles:
+Allow editing by lower roles. Set the minumum role and all above it can edit. Does not support custom user roles, accepts only organic WP user roles all the way down to Subscriber. Guests can never edit.:
 
 <code>[chatbot_instructions name="chatbot-id" editable="1" min_role="contributor"]</code>
 
