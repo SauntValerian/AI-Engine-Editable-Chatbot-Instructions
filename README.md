@@ -5,20 +5,20 @@ This plugin simply creates a shortcode where you can display the instructions fo
 
 ### Usage
 
-For simple display of the instructions use the shortcode this way, adding the chatbot ID:
+For simple display of the instructions use the shortcode this way, adding the chatbot ID.
 
 <code>[chatbot_instructions name="chatbot-id"]</code>
 
-Enable editing this way, by default it only allows admins to edit:
+Enable editing this way, by default it only allows admins to edit.
 
 <code>[chatbot_instructions name="chatbot-id" editable="1"]</code>
 
-Allow editing by lower roles. Set the minumum role and all above it can edit. Does not support custom user roles, accepts only organic WP user roles all the way down to Subscriber. Guests can never edit.:
+Allow editing by lower roles. Set the minumum role and all above it can edit. Does not support custom user roles, accepts only organic WP user roles all the way down to Subscriber. Guests can never edit.
 
 <code>[chatbot_instructions name="chatbot-id" editable="1" min_role="contributor"]</code>
 
 ### Debugging
 
-This shortcode will output to Admins only and will display the information from the mwai_chatbots field from the database. Formatted for easy reading:
+This shortcode will output to Admins only and will display the information from the mwai_chatbots field from the database. Formatted for easy reading.
 
 <code>[debug_mwai_chatbots]</code>
